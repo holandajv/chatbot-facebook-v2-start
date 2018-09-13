@@ -2,7 +2,7 @@ module.exports = {
     FB_PAGE_TOKEN: 'EAAEmBqLpfSIBABx9sx1fZCR3G5iQzAnNe1ULbKZAyPyt5C7R9dpXroZBpIvBl77Ydw3KoJMqC3ye7866AbZALNubCU8H2i94hyZBSGuzgWdwZAO5tSPmGTrO2iPxdssp8bBEEiVCdzX8aAebJ9Nk1m7nfi58aauGqhmFABbBbOduZCCsAHZC1goK ',
     FB_VERIFY_TOKEN: 'mychartoken20_paraacesso',
     FB_APP_SECRET: '96494ea25a7729d6f252d703a8da9b2c',
-    SERVER_URL: 'https://immense-spire-74176.herokuapp.com/',
+    SERVER_URL: 'https://jvv2.herokuapp.com/',
     GOOGLE_PROJECT_ID: 'test-4b27a',
     DF_LANGUAGE_CODE: 'pt-BR',
     GOOGLE_CLIENT_EMAIL: 'venda-cliente@test-4b27a.iam.gserviceaccount.com',
